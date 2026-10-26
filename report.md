@@ -27,4 +27,4 @@ The **Strategy** pattern focuses on *how* a task is performed, allowing intercha
 Implementing the Strategy pattern significantly improved code maintainability and eliminated branching logic. While it increases the total number of classes, the gain in flexibility, testability, and clean architecture far outweighs this overhead.
 
 ## 6. GitHub Repository Link
-[Insert your GitHub repository URL here]
+(https://github.com/aikynturash08-gif/SDPASS5/blob/main/report.md)
